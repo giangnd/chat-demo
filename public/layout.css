@@ -1,0 +1,67 @@
+body{
+    font-family: Tahoma;
+    font-size: 13px;
+    background-color: #e0e0e0;
+}
+
+input[type="text"], .btn{
+    padding: 3px 10px;
+}
+
+.btn{
+    border: none;
+    background-color: #000;
+    color: #fff;
+}
+
+#loginForm{
+    margin-bottom: 30px;
+}
+
+#txtUsername{
+    background-color: #fff;
+    border: 1px solid #fff;
+}
+
+#left, #right{
+    min-height: 300px;
+}
+
+#left{
+    width: 28%;
+    float: left;
+    background-color: #000;
+    color: #fff;
+}
+
+#right{
+    width: 70%;
+    float: right;
+    background-color: #d4f9f8;
+}
+
+#boxTitle{
+    border-bottom: 1px solid #fff;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#boxContent{
+    padding: 5px;
+}
+
+#sayHi{
+    text-align: right;
+}
+
+#listMessages{
+    height: 200px;
+    background-color: #fff;
+    margin-bottom: 15px;
+}
+
+#txtMessage{
+    background-color: #fff;
+    border: 1px solid #fff;
+}
